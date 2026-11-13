@@ -1,2 +1,6 @@
 Lehenengo fitxategiaren edukia adarrean
+<<<<<<< HEAD
 Aldaketa berriak main adarreko fitxategian
+=======
+Aldaketa berriak adarreko fitxategian
+>>>>>>> Oier_Goncalves_adarra
